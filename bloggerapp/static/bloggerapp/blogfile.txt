@@ -16,3 +16,8 @@ Xiaomi Redmi Note 8 Pro specs
 Body: 161.4 x 76.4 x 8.8 mm, 200g; plastic frame, Gorilla Glass 5 front and back. Display: 6.53″ IPS LCD, HDR support, 1080 x 2340px resolution, 19.5:9 aspect ratio, 395ppi. Rear camera: Primary: 64MP, f/1.9 aperture, 1/1.7″ sensor size, 0.8µm pixel size, PDAF. Ultra wide: 8MP, f/2.2, 1/4″, 1.12µm pixels. Macro camera: 2MP, f/2.4, 1/5″, 1.75µm Depth sensor:2MP; 2160p@30fps, 1080p@120fps, 720p@960fps video recording. Front camera: 20MP, f/2.0 aperture, 0.9µm pixels. 1080p/30fps video recording. OS: Android 9 Pie; MIUI 10. Chipset: Mediatek Helio G90T (12nm): Octa-core (2×2.05 GHz Cortex-A76 & 6×2.0 GHz Cortex-A55), Mali-G76 MC4 GPU. Memory: 6GB of RAM; 64/128GB storage; shared microSD slot. Battery: 4,500mAh; 18W MediaTek Pump Express and USB Power Delivery support. Connectivity: Dual-SIM; LTE-A, 4-Band carrier aggregation, LTE Cat-12/ Cat-13; USB-C; Wi-Fi a/b/g/n/ac; dual-band GPS; Bluetooth 5.0; Misc: Rear-mounted fingerprint reader; single down-firing speaker; NFC; FM radio.
 Conclusion
 Skimming through the specs sheet reveals only one drawback so far, and that’s the choice of cameras. In the quad-camera array on the back, a telephoto unit is missing. Instead, you get a dedicated macro lens, and it remains to be seen whether the macro camera makes any difference compared to taking a standard close-up shot with the main camera and then cropping. Those 64MP can be put to work.
+
+
+/home/karankrs/.virtualenvs/myvirtualenv
+
+/home/karankrs/BlogSpot/blogger/blogger/wsgi.py
